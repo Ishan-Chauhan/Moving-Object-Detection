@@ -1,7 +1,7 @@
 # Moving Object Detection using OpenCV
 
 This code implements a simple motion detection algorithm using OpenCV (Open Source Computer Vision Library). It captures frames from a video camera, compares them with the first frame, and detects any significant changes in the scene. If a moving object is detected, it is outlined with a green rectangle, and the text "Moving object detected" is displayed on the screen.
-
+ 
 ## Prerequisites
 - Python 3.x
 - OpenCV (`cv2`)
